@@ -1,0 +1,32 @@
+Feature,Description
+Time,Se principal component derived from PCA transformation of original features.
+V1,Firstrived from PCA transformation of original features.
+V2,Second principal component derived from PCA transformation of original features.
+V3,Third principal component derived from PCA transformation of original features.
+V4,Fourth principal component derived from PCA transformation of original features.
+V5,Fifth principal component derived from PCA transformation of original features.
+V6,Sixth principal component derived from PCA transformation of original features.
+V7,Seventh principal component derived from PCA transformation of original features.
+V8,Eighth principal component derived from PCA transformation of original features.
+V9,Ninth principal component derived from PCA transformation of original features.
+V10,Tenth principal component derived from PCA transformation of original features.
+V11,Eleventh principal component derived from PCA transformation of original features.
+V12,Twelfth principal component derived from PCA transformation of original features.
+V13,Thirteenth principal component derived from PCA transformation of original features.
+V14,Fourteenth principal component derived from PCA transformation of original features.
+V15,Fifteenth principal component derived from PCA transformation of original features.
+V16,Sixteenth principal component deconds elapsed between each transaction and the first transaction in the dataset.
+V17,Seventeenth principal component derived from PCA transformation of original features.
+V18,Eighteenth principal component derived from PCA transformation of original features.
+V19,Nineteenth principal component derived from PCA transformation of original features.
+V20,Twentieth principal component derived from PCA transformation of original features.
+V21,Twenty-first principal component derived from PCA transformation of original features.
+V22,Twenty-second principal component derived from PCA transformation of original features.
+V23,Twenty-third principal component derived from PCA transformation of original features.
+V24,Twenty-fourth principal component derived from PCA transformation of original features.
+V25,Twenty-fifth principal component derived from PCA transformation of original features.
+V26,Twenty-sixth principal component derived from PCA transformation of original features.
+V27,Twenty-seventh principal component derived from PCA transformation of original features.
+V28,Twenty-eighth principal component derived from PCA transformation of original features.
+Amount,Transaction amount in monetary value.
+Class,"Target variable: 0 for legitimate transactions, 1 for fraudulent transactions."
